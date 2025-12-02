@@ -234,11 +234,11 @@
 <script>
     $(document).ready(function(){
 
-        $('#visitor_form').on('submit',function(){
-
-
-
-        });
+        // $('#visitor_form').on('submit',function(){
+        //
+        //
+        //
+        // });
 
     });
 </script>

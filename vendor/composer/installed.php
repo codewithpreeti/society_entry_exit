@@ -1,11 +1,11 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => 'ffad50bf348e838ce148e1369a4ec4eff9873695',
         'name' => 'laravel/laravel',
         'dev' => true,
     ),
@@ -410,12 +410,12 @@
             'dev_requirement' => false,
         ),
         'laravel/laravel' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => 'ffad50bf348e838ce148e1369a4ec4eff9873695',
             'dev_requirement' => false,
         ),
         'laravel/pail' => array(
@@ -596,12 +596,12 @@
             'dev_requirement' => false,
         ),
         'nette/utils' => array(
-            'pretty_version' => 'v4.0.9',
-            'version' => '4.0.9.0',
+            'pretty_version' => 'v4.1.0',
+            'version' => '4.1.0.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../nette/utils',
             'aliases' => array(),
-            'reference' => '505a30ad386daa5211f08a318e47015b501cad30',
+            'reference' => 'fa1f0b8261ed150447979eb22e373b7b7ad5a8e0',
             'dev_requirement' => false,
         ),
         'nikic/php-parser' => array(
@@ -704,12 +704,12 @@
             'dev_requirement' => true,
         ),
         'phpunit/phpunit' => array(
-            'pretty_version' => '11.5.44',
-            'version' => '11.5.44.0',
+            'pretty_version' => '11.5.45',
+            'version' => '11.5.45.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../phpunit/phpunit',
             'aliases' => array(),
-            'reference' => 'c346885c95423eda3f65d85a194aaa24873cda82',
+            'reference' => 'faf5fff4fb9beb290affa53f812b05380819c51a',
             'dev_requirement' => true,
         ),
         'psr/clock' => array(

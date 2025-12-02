@@ -40,8 +40,8 @@ class ComposerStaticInitc514d8f7b9fc5970bdd94287905ef584
         '58571171fd5812e6e447dce228f52f4d' => __DIR__ . '/..' . '/laravel/framework/src/Illuminate/Support/helpers.php',
         '801c31d8ed748cfa537fa45402288c95' => __DIR__ . '/..' . '/psy/psysh/src/functions.php',
         '6124b4c8570aa390c21fafd04a26c69f' => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy/deep_copy.php',
-        'a1cfe24d14977df6878b9bf804af2d1c' => __DIR__ . '/..' . '/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php',
         '5e8fe2a5ffaded85af682684fe3bbf5a' => __DIR__ . '/..' . '/mews/captcha/src/helpers.php',
+        'a1cfe24d14977df6878b9bf804af2d1c' => __DIR__ . '/..' . '/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php',
     );
 
     public static $prefixLengthsPsr4 = array (
@@ -547,9 +547,9 @@ class ComposerStaticInitc514d8f7b9fc5970bdd94287905ef584
     public static $classMap = array (
         'App\\Http\\Controllers\\Controller' => __DIR__ . '/../..' . '/app/Http/Controllers/Controller.php',
         'App\\Http\\Controllers\\LoginController' => __DIR__ . '/../..' . '/app/Http/Controllers/LoginController.php',
+        'App\\Models\\Guard' => __DIR__ . '/../..' . '/app/Models/Guard.php',
         'App\\Models\\User' => __DIR__ . '/../..' . '/app/Models/User.php',
         'App\\Models\\Visitor' => __DIR__ . '/../..' . '/app/Models/Visitor.php',
-        'App\\Models\\guard' => __DIR__ . '/../..' . '/app/Models/guard.php',
         'App\\Providers\\AppServiceProvider' => __DIR__ . '/../..' . '/app/Providers/AppServiceProvider.php',
         'Attribute' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
         'Brick\\Math\\BigDecimal' => __DIR__ . '/..' . '/brick/math/src/BigDecimal.php',

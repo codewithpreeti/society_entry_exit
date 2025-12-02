@@ -8,9 +8,9 @@ $baseDir = dirname($vendorDir);
 return array(
     'App\\Http\\Controllers\\Controller' => $baseDir . '/app/Http/Controllers/Controller.php',
     'App\\Http\\Controllers\\LoginController' => $baseDir . '/app/Http/Controllers/LoginController.php',
+    'App\\Models\\Guard' => $baseDir . '/app/Models/Guard.php',
     'App\\Models\\User' => $baseDir . '/app/Models/User.php',
     'App\\Models\\Visitor' => $baseDir . '/app/Models/Visitor.php',
-    'App\\Models\\guard' => $baseDir . '/app/Models/guard.php',
     'App\\Providers\\AppServiceProvider' => $baseDir . '/app/Providers/AppServiceProvider.php',
     'Attribute' => $vendorDir . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
     'Brick\\Math\\BigDecimal' => $vendorDir . '/brick/math/src/BigDecimal.php',

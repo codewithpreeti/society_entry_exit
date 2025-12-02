@@ -2,13 +2,7 @@
 
 namespace Illuminate\Contracts\Pagination;
 
-/**
- * @template TKey of array-key
- *
- * @template-covariant TValue
- *
- * @method $this through(callable(TValue): mixed $callback)
- */
+
 interface Paginator
 {
     /**

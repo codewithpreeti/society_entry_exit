@@ -1,0 +1,6 @@
+1. in laravel 12 captcha ke liye package install kar lo and woh vendor main dal degi bas path change karna hia generate kar
+ke khud de dega and session main bhi store kar lega
+2. {!! ' <p>hellow world</p>'!!}
+ {{' <p>hellow world</p>'}}
+ blade template html tags ko as it render kare dega and {!!} as html ko render karta hia isliye captcha_img()
+ ko isme likha jata hi
